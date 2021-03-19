@@ -3,6 +3,8 @@
 ## Demonstration
 <img src="./assets/demo.png" alt="Exemplo">
 
+Para visualizar o app [clica aqui](https://douglassantos-code.github.io/Clone-app-ClubHouse/).
+
 ## Techs
 
 * [ ] HTML

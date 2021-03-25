@@ -1,7 +1,7 @@
 # Clone do app Club House
 
 ## Demonstration
-<img src="./assets/demo.png" alt="Exemplo">
+<img src="./assets/demo.png">
 
 Para visualizar o app [clica aqui](https://douglassantos-code.github.io/Clone-app-ClubHouse/).
 
